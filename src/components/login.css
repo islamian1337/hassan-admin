@@ -6,6 +6,8 @@
     padding: 80px;
     background: #23463f;
     border-radius: 15px;
+    justify-self: center;
+    align-self: center;
 
 }
 
